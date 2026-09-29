@@ -1,12 +1,13 @@
 # FrYiLoCo Custom Skins
 
 The shared custom skin collection that FrYiLoCo's **Update Custom Skins** (Settings > Library)
-downloads from. It is laid out like the app's `Custom Skins` folder: one folder per champion,
-named as League names the champion, holding that champion's `.fantome` files.
+downloads from. `Custom Skins` here is the app's `Custom Skins` folder, exactly as the skin
+database names it: one folder per champion, named as League names the champion, holding that
+champion's `.fantome` files.
 
 ```
-Zed/Chibi Zed.fantome
-Zed/Minato Zed.fantome
+Custom Skins/Zed/Chibi Zed.fantome
+Custom Skins/Zed/Minato Zed.fantome
 ```
 
 - The file name is the name the catalogue shows.
