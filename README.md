@@ -12,4 +12,7 @@ Custom Skins/Zed/Minato Zed.fantome
 
 - The file name is the name the catalogue shows.
 - Keep every file an ordinary Git file under 100 MB. Do not use Git LFS.
-- The update only adds skins a player does not have; it never replaces or removes theirs.
+- The update adds the skins a player does not have, and never replaces or renames theirs.
+- To withdraw a broken skin, delete it here and add it to `removed.json` with Git's name for its
+  contents (`git hash-object`) and its size. The update moves every file with exactly those
+  contents to the player's Recycle Bin, whatever it is called; their own skins are never touched.

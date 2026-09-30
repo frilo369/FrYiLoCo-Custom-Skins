@@ -1,0 +1,22 @@
+{
+  "removed": [
+    {
+      "sha": "bc19af94c3f06d9f3027fa203cfc6bdda9cd5438",
+      "size": 24314953,
+      "name": "Kaido Shyvana",
+      "reason": "broken"
+    },
+    {
+      "sha": "07d9bd6bb2e1584dec014e723ba07a5acdac27b6",
+      "size": 11143975,
+      "name": "McQueen Skarner",
+      "reason": "broken"
+    },
+    {
+      "sha": "af585722728f1cfb341ace442513ddc789bc973c",
+      "size": 10166576,
+      "name": "Baby Mario & Fat Yoshi Nunu",
+      "reason": "broken"
+    }
+  ]
+}
