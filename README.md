@@ -11,6 +11,11 @@ Custom Skins/Zed/Minato Zed.fantome
 ```
 
 - The file name is the name the catalogue shows.
+- A picture beside a skin with the same name (`Ink Fizz.jpg`, also `.png` or `.webp`) is the
+  artwork its catalogue card shows. Use the skin's Divine Skins thumbnail (640x360), or the skin's
+  own loading screen when it has none there.
+- This repository is full at about 1 GB. New skins go into `frilo369/FrYiLoCo-Custom-Skins-2`, laid
+  out the same way; FrYiLoCo reads both.
 - Keep every file an ordinary Git file under 100 MB. Do not use Git LFS.
 - The update adds the skins a player does not have, and never replaces or renames theirs.
 - To withdraw a broken skin, delete it here and add it to `removed.json` with Git's name for its
