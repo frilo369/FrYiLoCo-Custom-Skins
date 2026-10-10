@@ -35,6 +35,18 @@
       "size": 9630737,
       "name": "Touka Kirishima",
       "reason": "Removed: it rewrites shared game files, so it can delay skins or crash League."
+    },
+    {
+      "sha": "820e918f62d683bb6b97650f01e2bd47b0537a52",
+      "size": 27018941,
+      "name": "Heretic of The False Moon Viktor",
+      "reason": "Replaced by a fixed version for the current patch, which the next update brings in."
+    },
+    {
+      "sha": "efc8f8ec9135ec0ed6ea75d4e6355605591c0925",
+      "size": 41908714,
+      "name": "Homelander",
+      "reason": "Replaced by a fixed version for the current patch, which the next update brings in."
     }
   ]
 }
