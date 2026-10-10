@@ -17,6 +17,24 @@
       "size": 14070967,
       "name": "Goku Black Jayce",
       "reason": "Removed at the owner's request."
+    },
+    {
+      "sha": "46f7956c5e52644a78b1f6dd7059c5032c1b75be",
+      "size": 1958278,
+      "name": "Mugetsu Yone",
+      "reason": "Removed: it rewrites shared game files, so it can delay skins or crash League."
+    },
+    {
+      "sha": "75ade66bfe61b2a014e1848c44057dc3e631e750",
+      "size": 23233257,
+      "name": "Mafia Zeri",
+      "reason": "Removed: it rewrites shared game files, so it can delay skins or crash League."
+    },
+    {
+      "sha": "bd7c157bed4a6b2bc4c68b34c3bee19ba3deaeeb",
+      "size": 9630737,
+      "name": "Touka Kirishima",
+      "reason": "Removed: it rewrites shared game files, so it can delay skins or crash League."
     }
   ]
 }
